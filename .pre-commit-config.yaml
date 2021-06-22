@@ -24,7 +24,7 @@ repos:
     rev: v2.5.0
     hooks:
       - id: reorder-python-imports
-        args: [--application-directories=quadsim]
+        args: [--application-directories=robolearn]
   - repo: https://github.com/prettier/pre-commit
     rev: v2.1.2
     hooks:
