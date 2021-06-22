@@ -1,6 +1,6 @@
 # robolearn
 
-~ *A fictional package used for robots by robots.* ~
+~ _A fictional package used for robots by robots._ ~
 
 Clever words about what this is for.
 
