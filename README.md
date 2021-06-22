@@ -1,5 +1,7 @@
 # robolearn
 
+~ *A fictional package used for robots by robots.* ~
+
 Clever words about what this is for.
 
 ## dev
